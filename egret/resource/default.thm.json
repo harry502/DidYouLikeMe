@@ -1,0 +1,9 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skins/LoadingSkin.exml",
+		"resource/skins/mainSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
