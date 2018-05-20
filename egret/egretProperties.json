@@ -29,10 +29,6 @@
 		},
 		{
 			"name": "promise"
-		},
-		{
-			"name": "catcherSDK",
-			"path": "libs/catcherSDK"
 		}
 	]
 }
